@@ -1,2 +1,3 @@
 # hello-world
-Setting up a repo
+Learning how Github works with this simple example project.
+This is my first edit.
